@@ -1,0 +1,40 @@
+# IDE
+.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Base Dir
+src/.baseDir.ts/
+.baseDir.js
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+
+# Cache
+.tscache
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Typings
+typings/globals
+typings/modules
+
+# Yarn
+yarn.lock

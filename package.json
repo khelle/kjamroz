@@ -1,0 +1,32 @@
+{
+  "name": "kjamroz.com",
+  "version": "1.0.0",
+  "description": "Kamil J. Homepage",
+  "author": "kjamroz",
+  "repository": {
+    "url": "https://github.com/khelle/kjamroz",
+    "type": "git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^4.0.0-alpha.4",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.3",
+    "grunt-tslint": "^3.3.0",
+    "jade": "^1.11.0",
+    "jquery": "^2.0.0",
+    "tether": "^1.3.2",
+    "tslint": "^3.15.1",
+    "twig": "^0.9.5",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0"
+  }
+}
